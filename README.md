@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue.js Forge Episode 2 Codebase
 
 ![Vue.js Forge Episode 2](https://vuejsforge.com/images/logo-vuejs-forge.svg)
@@ -62,3 +63,6 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+=======
+# VueJs.-Ecommerce-App
+>>>>>>> e58c52204bbfb8b35c0731419778320afba16a38
